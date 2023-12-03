@@ -32,8 +32,10 @@ import c from './c.svg'
 import Cattle from './Cattle.svg'
 import arduino from './arduino.svg'
 import ats from './ats.svg'
+import man from './man.png'
 export {
     css,
+    man,
     Cattle,
     arduino,
     c,
