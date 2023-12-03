@@ -16,6 +16,7 @@ import {
     linkedin,
     mongodb,
     motion,
+    man,
     mui,
     Cattle,
     nextjs,
@@ -120,19 +121,19 @@ export const projects = [
         description: 'Built a online selling and buying platform of cattle for farmers with useful user interface and connecting buyers with sellers.',
         link: 'https://github.com/AbishekMS/Only-4-cattle',
     },
-    {
+      {
         iconUrl: ats,
         theme: 'btn-back-black',
         name: 'FullStack Application Tracking System',
         description: 'Developed a web application for recruiters to hire applicants based on skills.Thereby it aims to reduces recruitment time. ',
-        link: 'https://github.com/',
+        link: 'https://github.com/AbishekMS/ApplicationTrackingSystem',
     },
-    {
-        iconUrl: ats,
-        theme: 'btn-back-black',
+   {
+        iconUrl: man,
+        theme: 'btn-back-blue',
         name: 'Portfolio',
-        description: 'My portfolio ',
-        link: 'https://github.com/',
+        description: 'Developed a portfolio app using react + vite and i have use three js and motion fiber. Thereby making my website more attractive. ',
+        link: 'https://github.com/AbishekMS/3DPortfolio',
     },
     
 ];
