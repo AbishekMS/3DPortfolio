@@ -8,7 +8,7 @@ const Resume = () => {
     <section className='cta'>
       <p className='cta-text'>
         To know more about me <br className='sm:block hidden' />
-        Here is my Resume and bio-data..
+        Here is my Resume and Achievements...
       </p>
       <button  onClick={handle} className="btn"> This way
       </button>
