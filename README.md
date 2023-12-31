@@ -1,10 +1,22 @@
-# React + Vite
+# Personal Portfolio Website built with React+Vite
+![image](https://github.com/AbishekMS/3DPortfolio/assets/108707094/fc291f9b-d548-4b88-9b8b-4afd57042ba5)
+Welcome to my personal portfolio website! This repository houses the code for my online portfolio,
+a digital space where I showcase my skills, projects, and a glimpse into who I am. Designed with simplicity and clarity in mind, my portfolio provides a comprehensive overview of my professional journey.You can access my resume and the contact section offers multiple ways to get in touch with me.
+View demo at https://abishekms-portfolio.netlify.app/
+  * built using React+Vite
+  * animated with react-three-fiber/ threejs
+  * styled with Material UI
+  * deployed on netlify 
+Special thanks to Adrian_Hajdin and Bruno_Simon for their tutorials and inspiration.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-![image](https://github.com/AbishekMS/3DPortfolio/assets/108707094/afb6f9a7-1e1a-47d3-ae1d-51a65c76fa0f)
+# Features
+  * Interactive elements with responsive design.
+  * Clean and modern layout with sections for showcasing my information.
+  * Usage of several websites including sketchfab, pmndrs docs, glts.pmndrs for animations to enhance user experience.
+  * The user of this website was able to contact with me through the contact page which is powered by Emailjs.
 
-Currently, two official plugins are available:
+## Deloy on Vercel
+ The easiest way to deploy react+vite app is to use netlify platform as a begineer of react+vite/threejs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-#hrb
+
+
