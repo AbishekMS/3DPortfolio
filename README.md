@@ -5,9 +5,9 @@ a digital space where I showcase my skills, projects, and a glimpse into who I a
 View demo at https://abishekms-portfolio.netlify.app/
   * built using React+Vite
   * animated with react-three-fiber/ threejs
-  * styled with Material UI
+  * styled with Tailwind css
   * deployed on netlify
-  * used motion-frame
+  * animated with motion-frame
     
 Special thanks to Adrian_Hajdin and Bruno_Simon for their tutorials and inspiration.
 
