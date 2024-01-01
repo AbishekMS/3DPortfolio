@@ -17,8 +17,8 @@ Special thanks to Adrian_Hajdin and Bruno_Simon for their tutorials and inspirat
   * Usage of several websites including sketchfab, pmndrs docs, glts.pmndrs for animations to enhance user experience.
   * The user of this website was able to contact with me through the contact page which is powered by Emailjs.
 
-## Deloy on Vercel
- The easiest way to deploy react+vite app is to use netlify platform as a begineer of react+vite/threejs.
+## Deloy on Netlify
+The easiest way to deploy react+vite app is to use netlify platform as a begineer of react+vite/threejs.
 
 
 
