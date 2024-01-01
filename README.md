@@ -2,7 +2,7 @@
 ![image](https://github.com/AbishekMS/3DPortfolio/assets/108707094/fc291f9b-d548-4b88-9b8b-4afd57042ba5)
 Welcome to my personal portfolio website! This repository houses the code for my online portfolio,
 a digital space where I showcase my skills, projects, and a glimpse into who I am. Designed with simplicity and clarity in mind, my portfolio provides a comprehensive overview of my professional journey.You can access my resume and the contact section offers multiple ways to get in touch with me.
-View [demo] (https://abishekms-portfolio.netlify.app/)
+View [demo](https://abishekms-portfolio.netlify.app/)
   * built using React+Vite
   * animated with [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)/ threejs
   * styled with Tailwind css
